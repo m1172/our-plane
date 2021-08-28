@@ -1,8 +1,8 @@
 import React, { Component } from 'react';
-import { Container } from './style';
+// import { Container } from './style.js';
 
 export default class index extends Component {
   render() {
-    return <Container>Navbar</Container>;
+    return <div>Navbar</div>;
   }
 }
